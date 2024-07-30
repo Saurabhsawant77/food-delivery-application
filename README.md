@@ -1,6 +1,6 @@
-# 🌟 Saurabh Sawant's Portfolio
+# 🌟 Food Delivery Application
 
-Welcome to my portfolio! This project showcases my skills and projects using modern web development technologies.
+Welcome to the Food Delivery Application! This project showcases my skills in building modern web applications using the latest web development technologies.
 
 ## 🚀 Technologies Used
 
@@ -47,6 +47,10 @@ Welcome to my portfolio! This project showcases my skills and projects using mod
 
 ## ✨ Features
 
+- **🍽️ Restaurant Listing**: Browse a list of available restaurants.
+- **📜 Menu Viewing**: View the menu items for each restaurant.
+- **🛒 Cart Functionality**: Add items to the cart, update quantities, and remove items.
+- **📦 Order Placement**: Place orders with a summary of the items in the cart.
 - **📱 Responsive Design**: Ensuring a seamless experience across devices.
 - **⚡ Dynamic Content**: Leveraging React for interactive user interfaces.
 - **🎨 Utility-First Styling**: Using Tailwind CSS for rapid and efficient styling.
@@ -65,4 +69,4 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/yourusername/food-delivery-app.git
