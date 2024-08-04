@@ -47,8 +47,8 @@ Welcome to the Food Delivery Application! This project showcases my skills in bu
 
 ## ✨ Features
 
-- **🍽️ Restaurant Listing**: Browse a list of available restaurants.
-- **📜 Menu Viewing**: View the menu items for each restaurant.
+- **🍽️ Food Items Listing**: Browse a list of available foods.
+- **📜 Menu Viewing**: View the menu items for different category.
 - **🛒 Cart Functionality**: Add items to the cart, update quantities, and remove items.
 - **📦 Order Placement**: Place orders with a summary of the items in the cart.
 - **📱 Responsive Design**: Ensuring a seamless experience across devices.
