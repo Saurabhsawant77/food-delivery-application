@@ -45,7 +45,7 @@ const PlaceOrder = () => {
               <b>${getTotalCartAmount()===0?0:getTotalCartAmount()+5}</b>
             </div>
           </div>
-            <button onClick={()=>navigate('/order')}>Proceed to Check Out</button>
+            <button onClick={()=>navigate('/food-delivery-application/order')}>Proceed to Check Out</button>
         </div>
         </div>
     </form>
