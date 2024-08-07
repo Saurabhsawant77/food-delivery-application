@@ -19,7 +19,7 @@ function App() {
       <div className='app'>
       <Navbar setShowLogin={setShowLogin} />
       <Routes>
-        <Route path='/food-delivery-application' element={<Home />} />
+        <Route path='/' element={<Home />} />
         <Route path='/cart' element={<Cart />} />
         <Route path='/order' element={<PlaceOrder />} />
       </Routes>
